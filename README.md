@@ -1,4 +1,4 @@
-# The Website For Hyper-Chicken Interactive
+# The Website For HyperChicken Interactive
 *Congrats* You made it here.
 
 ### Goals
@@ -14,3 +14,6 @@
 * Don't use hugo
 * Add disqus
 * Add light/dark theme switching
+* Make site convincing enough for Apple to issue a developers lisence
+
+# End of file
