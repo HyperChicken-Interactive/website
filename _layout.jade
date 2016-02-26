@@ -6,9 +6,35 @@ html
     link(href="/css/solarized_dark.css" rel="stylesheet")
     link(href="/css/main.css" rel="stylesheet")
     
-    title
+    title HyperChicken Interactive
     
   body
+    
+    br
+    br
+    
+    ul.nav.nav-pills.border
+      li
+        a(href="/").btn-lg
+          i.fa.fa-home  Home
+      li
+        p &nbsp;&nbsp;&nbsp;&nbsp;
+      li
+        a(href="/faq.html").btn-lg
+          i.fa.fa-question-circle  FAQ
+      li
+        p &nbsp;&nbsp;&nbsp;&nbsp;
+      li
+        a(href="/devs.html").btn-lg
+          i.fa.fa-user  Developers
+      li
+        p &nbsp;&nbsp;&nbsp;&nbsp;
+      li
+        a(href="/contribute.html").btn-lg                                                                                                     
+          i.fa.fa-pencil  Contribute
+    
+    br
+    br
     
     != yield
   
