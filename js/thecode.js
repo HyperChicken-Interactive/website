@@ -2,10 +2,10 @@ $( document ).ready(function(){
 
     $("#spinHover").hover(
         function () {
-            $(this).addClass('fa-spin');
+            $("#spinHover").addClass('fa-spin');
         },
         function () {
-            $(this).removeClass('fa-spin');
+            $("#spinHover").removeClass('fa-spin');
         }
     );
 });
