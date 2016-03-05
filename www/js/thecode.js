@@ -1,7 +1,8 @@
 $( document ).ready(function(){
 
     $("#spinHover").hover {
-        function() {$(this).toggleClass("fa-spin")}
+        function(){ $(this).addClass('fa-spin') },
+        function(){ $(this).removeClass('fa-spin') }
     }
 
 });
