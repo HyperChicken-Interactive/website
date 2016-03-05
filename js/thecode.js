@@ -1,3 +1,3 @@
-$('#spinHover').hover(function() {
+$('.fa-apple').hover(function() {
         $(this).addClass('fa-spin');
 });
