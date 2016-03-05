@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    $("#spinHover").hover(function() {
+    $(".fa").hover(function() {
         $(this).toggleClass('fa-spin');
     });
 });
