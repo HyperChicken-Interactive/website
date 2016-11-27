@@ -13,6 +13,6 @@
 * Social Media links
 * ~~Don't use hugo~~
 * Add disqus
-* Make site convincing enough for Apple to issue a developers lisence
+* Make site convincing enough for Apple to issue a developers license
 
 # End of file
