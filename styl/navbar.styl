@@ -1,0 +1,39 @@
+@import "shadows.styl"
+
+*
+    margin 0
+    padding 0
+
+body
+    font-family "Roboto", sans-serif
+
+header ul
+    display flex
+    flex-direction row
+    list-style-type none
+    margin 0
+    padding 0
+    overflow hidden
+    background-color #1976D2
+    font-size 1em
+    position fixed
+    width 100%
+    z-index 9999
+    z-depth(4)
+
+header li
+    float left
+
+header li a
+    display block
+    color #ffffff
+    text-align center
+    padding 1.25em 1.5em
+    text-decoration none
+
+header li a.active
+    background-color #0091EA
+
+header li a:hover:not(.active)
+    background-color #00B8D4
+    color white
