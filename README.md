@@ -2,11 +2,6 @@
 *Congrats* You made it here.
 
 ---
-## Join our discord I guess?
-
-We have made our discord chatroom where we develop at public. If you're interested, feel free to join us [here](https://discord.gg/XSyBjAX)
-
----
 
 ## Goals
 * Create Landing Page
